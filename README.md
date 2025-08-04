@@ -1,3 +1,3 @@
 # Guidance Counseling System
 
-Guidance counseling System for SFAC - Bacoor Campus
+Guidance counseling System for Saint Francis of Assisi College - Bacoor Campus
